@@ -1,0 +1,23 @@
+{
+  "name": "pryvatecoin",
+  "version": "1.0.0",
+  "description": "PryvateCoin (PVC) ERC20 Smart Contract development framework",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "bignumber.js": "^8.0.2",
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Broniszewski",
+  "license": "ISC"
+}
